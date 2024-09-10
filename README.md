@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JTupy21
-- 👀 I’m interested in Programming
+- 👀 I’m in Programming
 - 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on Programming
-- 📫 How to reach me Programming
+- 💞️ I’m looking to Programming
+- 📫 How me reach Programming
 - 😄 Pronouns: Him
 
 <!---
